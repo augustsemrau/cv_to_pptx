@@ -1,0 +1,9 @@
+python-dotenv
+jsonschema
+langchain-openai
+langchain-core
+
+fastapi
+uvicorn
+python-pptx
+jinja2
